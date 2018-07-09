@@ -1,3 +1,6 @@
+# Laravel Task App
+Check out the [tutorial](https://medium.com/@brice_80846/building-a-user-based-task-list-application-in-laravel-eff4a07e2688) for building this application.
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
